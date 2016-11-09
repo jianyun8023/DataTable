@@ -1,5 +1,16 @@
-### DataTable  jq插件  的服务器端参数解析工具
+# DataTables  jq插件  的服务器端参数解析工具
 
+
+
+> 分页，即时搜索和排序
+> 几乎支持任何数据源：DOM， javascript， Ajax 和 服务器处理
+> 支持不同主题 DataTables, jQuery UI, Bootstrap, Foundation
+> 各式各样的扩展: Editor, TableTools, FixedColumns ……
+> 丰富多样的option和强大的API
+> 支持国际化
+
+DataTables 插件的使用  [点击](http://datatables.club/)  
+ **需要开启服务器模式** 
 
 ##使用方式  
 
