@@ -63,4 +63,7 @@ DataTables 插件的使用  [点击](http://datatables.club/)
 	}
 ```
 
+如果使用了  mybatis，搭配使用 PageHelper插件 配合我这个datatable插件是很方便的
+
+
 代码也比较简单 实现请看里面代码
